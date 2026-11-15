@@ -29,7 +29,7 @@
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **Anime Quest** | Real-time team quiz for up to 30 players: host control panel, TV screen mode, chat, auto-checking of answers with typo tolerance, AI hints. Secured by Firebase rules and covered by 73 automated security tests | React · TypeScript · Firebase · Vitest · Gemini API | [Code](https://github.com/gigantic536wall/animekvest2) |
+| **Anime Quest** | Real-time team quiz for up to 30 players: host control panel, TV screen mode, chat, auto-checking of answers with typo tolerance, AI hints. Secured by Firebase rules and covered by 73 automated security tests | React · TypeScript · Firebase · Vitest · Gemini API | [Live demo](https://gigantic536wall.github.io/anime-quest/) · [Code](https://github.com/gigantic536wall/anime-quest) |
 | **Anime Quest 5** | Lightweight version of the quiz with no build step, with timers synced to server time | JavaScript · Firebase | [Live demo](https://gigantic536wall.github.io/animekvest5/) · [Code](https://github.com/gigantic536wall/animekvest5) |
 | **BELEX Landing** | Marketing website for a PVC products manufacturer: product catalog with filters, cost calculator, lead form with validation | TypeScript · Vite · GitHub Actions | [Code](https://github.com/gigantic536wall/belex-landing) |
 | **City Builder (Unity)** | Mobile city-management game made with a teammate: buildings, delivery system, collectible cards and safes, player profile, analytics | Unity 6 · C# · URP · Input System | <!-- TODO: link to friend's repo --> _Coming soon_ |
