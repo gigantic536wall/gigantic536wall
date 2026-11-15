@@ -31,7 +31,7 @@
 |---|---|---|---|
 | **Anime Quest** | Real-time team quiz for up to 30 players: host control panel, TV screen mode, chat, auto-checking of answers with typo tolerance, AI hints. Secured by Firebase rules and covered by 73 automated security tests | React · TypeScript · Firebase · Vitest · Gemini API | [Live demo](https://gigantic536wall.github.io/anime-quest/) · [Code](https://github.com/gigantic536wall/anime-quest) |
 | **Anime Quest 5** | Real-time quiz for 30 players in plain JavaScript with no build step: server-synced timers, race-free team answers via ETag transactions | JavaScript · Firebase REST · SSE | [Live demo](https://gigantic536wall.github.io/animekvest5/) · [Code](https://github.com/gigantic536wall/animekvest5) |
-| **BELEX Landing** | Marketing website for a PVC products manufacturer: product catalog with filters, cost calculator, lead form with validation | TypeScript · Vite · GitHub Actions | [Code](https://github.com/gigantic536wall/belex-landing) |
+| **BELEX Landing** _(study project)_ | University assignment: marketing website for a PVC products manufacturer: product catalog with filters, cost calculator, lead form with validation | TypeScript · Vite · GitHub Actions | [Code](https://github.com/gigantic536wall/belex-landing) |
 | **City Tycoon (Unity)** | Idle city-management game made with a teammate: economy and offline income, building upgrades, delivery trucks, characters, safes with collectible cards, onboarding. 126 scripts, ~18k lines of C# | Unity 6 · C# · URP · Input System | [Code](https://github.com/gigantic536wall/unity-city-tycoon) |
 
 <!-- New projects will be added here as they are finished -->
