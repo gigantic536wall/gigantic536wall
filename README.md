@@ -29,6 +29,7 @@
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
+| **SlotBook** | Online booking system for salons and barbershops: 4-step booking, admin panel with schedule and staff hours, double bookings blocked by a PostgreSQL constraint, time zone / DST-safe slots, English + German, GDPR self-service data deletion | Next.js 16 · TypeScript · PostgreSQL · Prisma · Vitest · Vercel | [Live demo](https://slotbook-omega.vercel.app) · [Code](https://github.com/gigantic536wall/slotbook) |
 | **Anime Quest** | Real-time team quiz for up to 30 players: host control panel, TV screen mode, chat, auto-checking of answers with typo tolerance, AI hints. Secured by Firebase rules and covered by 73 automated security tests | React · TypeScript · Firebase · Vitest · Gemini API | [Live demo](https://gigantic536wall.github.io/anime-quest/) · [Code](https://github.com/gigantic536wall/anime-quest) |
 | **Anime Quest 5** | Real-time quiz for 30 players in plain JavaScript with no build step: server-synced timers, race-free team answers via ETag transactions | JavaScript · Firebase REST · SSE | [Live demo](https://gigantic536wall.github.io/animekvest5/) · [Code](https://github.com/gigantic536wall/animekvest5) |
 | **BELEX Landing** _(study project)_ | University assignment: marketing website for a PVC products manufacturer: product catalog with filters, cost calculator, lead form with validation | TypeScript · Vite · GitHub Actions | [Code](https://github.com/gigantic536wall/belex-landing) |
